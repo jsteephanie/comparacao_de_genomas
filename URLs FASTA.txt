@@ -1,0 +1,5 @@
+URLs FASTA
+Escherichia coli strain U 5/41 16S ribosomal RNA gene, partial sequence    https://www.ncbi.nlm.nih.gov/nuccore/219722938
+
+Human 18S rRNA gene, complete
+https://www.ncbi.nlm.nih.gov/nuccore/M10098.1
